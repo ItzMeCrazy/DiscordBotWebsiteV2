@@ -1,4 +1,4 @@
-![image](https://discord.com/api/guilds/967431124764745800/widget.json)
+![image](<iframe src="https://discord.com/widget?id=967431124764745800&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)
 
 
 <div align="center">
