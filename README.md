@@ -1,13 +1,9 @@
-<iframe src="https://discord.com/widget?id=967431124764745800&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
+![imge](https://cdn.discordapp.com/attachments/1036265751193067530/1046033236150714378/a_42073b72cdfb746e94f1643d4e96db68.webp)
 
 <div align="center">
   <br>
 
   <h3> Star the Project + Follow me on github </h3>
-
- <img src="https://user-images.githubusercontent.com/74746579/168328818-6995ed8d-915d-4083-9279-3d94e1d150c5.png" alt="help to star">
- </div>
            
 
 # Information
@@ -20,7 +16,7 @@
 
 
 ### Replit
-[![image](https://camo.githubusercontent.com/807ef293459e367b2769d7b590e00f31e35d6b2e1c7bc4f570e37abbc3650f3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f5a65726f446973636f72642f4769766561776179426f74)](https://repl.it/github/diwasatreya/DiscordBot-Website)
+[![image](https://camo.githubusercontent.com/807ef293459e367b2769d7b590e00f31e35d6b2e1c7bc4f570e37abbc3650f3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f5a65726f446973636f72642f4769766561776179426f74)](https://repl.it/github/ItzMeCrazy/DiscordBotWebsiteV2)
 
 ## Configration
 
@@ -65,4 +61,6 @@ app.get('/name after domain', async (req, res) => {
 - This is `nodejs` code. It can be run in html code also for that open issue & ask help. If you are developer you know how to do it.
 
 ### Need help?
-If you need help! Feel free to join our [Support server](https://aromaxdev.xyz/discord)
+If you need help! Feel free to join our [Support server](https://discord.gg/devshub)
+Coded by Atreya copyrights reserved
+Video By The Crazy#0070 Youtube: https://youtube.com/CrazyHQ . Make sure to like and subscribe. <3
